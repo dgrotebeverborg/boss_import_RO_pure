@@ -1,0 +1,427 @@
+{
+    "typeDiscriminator": "ContributionToJournal",
+    "pureId": 208152800,
+    "uuid": "7209df0a-e6ce-4484-a295-b9543ac4eda3",
+    "createdBy": "4179293",
+    "createdDate": "2024-03-04T15:03:00.196+01:00",
+    "modifiedBy": "4179293",
+    "modifiedDate": "2024-03-04T15:03:00.196+01:00",
+    "portalUrl": "http://10.10.70.176:8080/experts/en/publications/7209df0a-e6ce-4484-a295-b9543ac4eda3",
+    "version": "fef11c1743c5d0084fe4b1cfe85af3e4d0cfc5cc",
+    "title": {
+        "value": "Fracture patterns and associated risk factors in pediatric and early adulthood type 1 diabetes"
+    },
+    "subTitle": {
+        "value": "Findings from a nationwide retrospective cohort study"
+    },
+    "type": {
+        "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article",
+        "term": {
+            "en_GB": "Article"
+        }
+    },
+    "category": {
+        "uri": "/dk/atira/pure/researchoutput/category/academic",
+        "term": {
+            "en_GB": "Academic"
+        }
+    },
+    "peerReview": true,
+    "publicationStatuses": [
+        {
+            "pureId": 208152836,
+            "current": false,
+            "publicationStatus": {
+                "uri": "/dk/atira/pure/researchoutput/status/epub",
+                "term": {
+                    "en_GB": "E-pub ahead of print"
+                }
+            },
+            "publicationDate": {
+                "year": 2023,
+                "month": 12,
+                "day": 27
+            }
+        },
+        {
+            "pureId": 208152837,
+            "current": true,
+            "publicationStatus": {
+                "uri": "/dk/atira/pure/researchoutput/status/published",
+                "term": {
+                    "en_GB": "Published"
+                }
+            },
+            "publicationDate": {
+                "year": 2024,
+                "month": 3
+            }
+        }
+    ],
+    "language": {
+        "uri": "/dk/atira/pure/core/languages/en_GB",
+        "term": {
+            "en_GB": "English"
+        }
+    },
+    "contributors": [
+        {
+            "typeDiscriminator": "ExternalContributorAssociation",
+            "pureId": 208152828,
+            "externalOrganizations": [
+                {
+                    "systemName": "ExternalOrganization",
+                    "uuid": "d71b876c-ce44-4325-b333-821b878192d1"
+                }
+            ],
+            "hidden": false,
+            "correspondingAuthor": true,
+            "name": {
+                "firstName": "Nicklas H.",
+                "lastName": "Rasmussen"
+            },
+            "role": {
+                "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+                "term": {
+                    "en_GB": "Author"
+                }
+            },
+            "externalPerson": {
+                "systemName": "ExternalPerson",
+                "uuid": "6b603331-b9e6-46cb-a46f-8386a2a1cbdc"
+            }
+        },
+        {
+            "typeDiscriminator": "InternalContributorAssociation",
+            "pureId": 208152829,
+            "hidden": false,
+            "correspondingAuthor": false,
+            "name": {
+                "firstName": "Johanna H.M.",
+                "lastName": "Driessen"
+            },
+            "role": {
+                "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+                "term": {
+                    "en_GB": "Author"
+                }
+            },
+            "person": {
+                "systemName": "Person",
+                "uuid": "26139bfe-0f97-4590-bbe3-c19643fbd883"
+            },
+            "organizations": [
+                {
+                    "systemName": "Organization",
+                    "uuid": "ff3d11a4-9026-416e-81db-8c475bcc87e5"
+                }
+            ]
+        },
+        {
+            "typeDiscriminator": "ExternalContributorAssociation",
+            "pureId": 208152831,
+            "externalOrganizations": [
+                {
+                    "systemName": "ExternalOrganization",
+                    "uuid": "921e2fd3-6379-498b-b919-9a171ef3a57d"
+                },
+                {
+                    "systemName": "ExternalOrganization",
+                    "uuid": "d71b876c-ce44-4325-b333-821b878192d1"
+                },
+                {
+                    "systemName": "ExternalOrganization",
+                    "uuid": "aabb22a6-5927-42af-8384-4f94985b36aa"
+                }
+            ],
+            "hidden": false,
+            "correspondingAuthor": false,
+            "name": {
+                "firstName": "Annika Vestergaard",
+                "lastName": "Kvist"
+            },
+            "role": {
+                "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+                "term": {
+                    "en_GB": "Author"
+                }
+            },
+            "externalPerson": {
+                "systemName": "ExternalPerson",
+                "uuid": "39ec1736-5f1a-4d4f-b0a9-90d04754008f"
+            }
+        },
+        {
+            "typeDiscriminator": "InternalContributorAssociation",
+            "pureId": 208152832,
+            "hidden": false,
+            "correspondingAuthor": false,
+            "name": {
+                "firstName": "Patrick C.",
+                "lastName": "Souverein"
+            },
+            "role": {
+                "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+                "term": {
+                    "en_GB": "Author"
+                }
+            },
+            "person": {
+                "systemName": "Person",
+                "uuid": "5f1aa41f-bd17-4ff9-8380-83f395f02741"
+            },
+            "organizations": [
+                {
+                    "systemName": "Organization",
+                    "uuid": "a4b2cfa9-cad9-484c-a71e-7b873120cd26"
+                }
+            ]
+        },
+        {
+            "typeDiscriminator": "ExternalContributorAssociation",
+            "pureId": 208152834,
+            "externalOrganizations": [
+                {
+                    "systemName": "ExternalOrganization",
+                    "uuid": "d46d1a32-a706-4fe4-822e-b5e099f08ecd"
+                },
+                {
+                    "systemName": "ExternalOrganization",
+                    "uuid": "026a71b8-033b-4206-bcb9-fed6befcfefe"
+                }
+            ],
+            "hidden": false,
+            "correspondingAuthor": false,
+            "name": {
+                "firstName": "Joop P.",
+                "lastName": "van den Bergh"
+            },
+            "role": {
+                "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+                "term": {
+                    "en_GB": "Author"
+                }
+            },
+            "externalPerson": {
+                "systemName": "ExternalPerson",
+                "uuid": "69a6030f-956a-4eac-9058-f40456ffea6f"
+            }
+        },
+        {
+            "typeDiscriminator": "ExternalContributorAssociation",
+            "pureId": 208152835,
+            "externalOrganizations": [
+                {
+                    "systemName": "ExternalOrganization",
+                    "uuid": "d71b876c-ce44-4325-b333-821b878192d1"
+                }
+            ],
+            "hidden": false,
+            "correspondingAuthor": false,
+            "name": {
+                "firstName": "Peter",
+                "lastName": "Vestergaard"
+            },
+            "role": {
+                "uri": "/dk/atira/pure/researchoutput/roles/contributiontojournal/author",
+                "term": {
+                    "en_GB": "Author"
+                }
+            },
+            "externalPerson": {
+                "systemName": "ExternalPerson",
+                "uuid": "98cfec30-c213-4d24-9335-6f745e027e5a"
+            }
+        }
+    ],
+    "organizations": [
+        {
+            "systemName": "Organization",
+            "uuid": "ff3d11a4-9026-416e-81db-8c475bcc87e5"
+        },
+        {
+            "systemName": "Organization",
+            "uuid": "a4b2cfa9-cad9-484c-a71e-7b873120cd26"
+        }
+    ],
+    "totalNumberOfContributors": 6,
+    "managingOrganization": {
+        "systemName": "Organization",
+        "uuid": "a4b2cfa9-cad9-484c-a71e-7b873120cd26"
+    },
+    "submissionYear": 2024,
+    "electronicVersions": [
+        {
+            "typeDiscriminator": "DoiElectronicVersion",
+            "pureId": 208152805,
+            "accessType": {
+                "uri": "/dk/atira/pure/core/openaccesspermission/closed",
+                "term": {
+                    "en_GB": "Closed"
+                }
+            },
+            "doi": "10.1016/j.bone.2023.116997",
+            "versionType": {
+                "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+                "term": {
+                    "en_GB": "Final published version"
+                }
+            }
+        }
+    ],
+    "links": [
+        {
+            "pureId": 208152815,
+            "url": "http://www.scopus.com/inward/record.url?scp=85181093427&partnerID=8YFLogxK",
+            "description": {
+                "en_GB": "Link to publication in Scopus"
+            },
+            "linkType": {
+                "uri": "/dk/atira/pure/links/researchoutput/scopuspublication",
+                "term": {
+                    "en_GB": "Scopus publication"
+                }
+            }
+        }
+    ],
+    "keywordGroups": [
+        {
+            "typeDiscriminator": "FreeKeywordsKeywordGroup",
+            "pureId": 208152806,
+            "logicalName": "keywordContainers",
+            "name": {
+                "en_GB": "Keywords"
+            },
+            "keywords": [
+                {
+                    "pureId": 208152808,
+                    "locale": "en_GB",
+                    "freeKeywords": [
+                        "Falls",
+                        "Fracture patterns",
+                        "Fractures",
+                        "Lower arm fractures",
+                        "Lower leg fractures",
+                        "Pediatric and early adulthood type 1 diabetes"
+                    ]
+                }
+            ]
+        },
+        {
+            "typeDiscriminator": "ClassificationsKeywordGroup",
+            "pureId": 208152809,
+            "logicalName": "/dk/atira/pure/researchoutput/keywords/library",
+            "name": {
+                "en_GB": "Library Keywords"
+            },
+            "classifications": [
+                {
+                    "uri": "/dk/atira/pure/researchoutput/keywords/library/taverne",
+                    "term": {
+                        "en_GB": "Taverne"
+                    }
+                }
+            ]
+        },
+        {
+            "typeDiscriminator": "ClassificationsKeywordGroup",
+            "pureId": 208152811,
+            "logicalName": "ASJCSubjectAreas",
+            "name": {
+                "en_GB": "ASJC Scopus subject areas"
+            },
+            "classifications": [
+                {
+                    "uri": "/dk/atira/pure/subjectarea/asjc/2700/2712",
+                    "term": {
+                        "en_GB": "Endocrinology, Diabetes and Metabolism"
+                    }
+                },
+                {
+                    "uri": "/dk/atira/pure/subjectarea/asjc/1300/1314",
+                    "term": {
+                        "en_GB": "Physiology"
+                    }
+                },
+                {
+                    "uri": "/dk/atira/pure/subjectarea/asjc/2700/2722",
+                    "term": {
+                        "en_GB": "Histology"
+                    }
+                }
+            ]
+        }
+    ],
+    "bibliographicalNote": {
+        "en_GB": "Publisher Copyright:\r\n\u00a9 2023 Elsevier Inc."
+    },
+    "visibility": {
+        "key": "FREE",
+        "description": {
+            "en_GB": "Public - No restriction"
+        }
+    },
+    "workflow": {
+        "step": "approved",
+        "description": {
+            "en_GB": "Approved"
+        }
+    },
+    "identifiers": [
+        {
+            "typeDiscriminator": "PrimaryId",
+            "idSource": "Scopus",
+            "value": "85181093427"
+        },
+        {
+            "typeDiscriminator": "Id",
+            "pureId": 208152838,
+            "idSource": "PubMed",
+            "value": "38154765"
+        }
+    ],
+    "customDefinedFields": {},
+    "volume": "180",
+    "journalAssociation": {
+        "pureId": 208152801,
+        "title": {
+            "pureId": 775726,
+            "title": "Bone"
+        },
+        "issn": {
+            "pureId": 775725,
+            "issn": "8756-3282"
+        },
+        "journal": {
+            "systemName": "Journal",
+            "uuid": "ea6128ad-b100-46fe-993a-878b3c371ac3"
+        }
+    },
+    "articleNumber": "116997",
+    "systemName": "ResearchOutput",
+    "externalOrganizations": [
+        {
+            "systemName": "ExternalOrganization",
+            "uuid": "d71b876c-ce44-4325-b333-821b878192d1"
+        },
+        {
+            "systemName": "ExternalOrganization",
+            "uuid": "921e2fd3-6379-498b-b919-9a171ef3a57d"
+        },
+        {
+            "systemName": "ExternalOrganization",
+            "uuid": "aabb22a6-5927-42af-8384-4f94985b36aa"
+        },
+        {
+            "systemName": "ExternalOrganization",
+            "uuid": "d46d1a32-a706-4fe4-822e-b5e099f08ecd"
+        },
+        {
+            "systemName": "ExternalOrganization",
+            "uuid": "026a71b8-033b-4206-bcb9-fed6befcfefe"
+        }
+    ],
+    "abstract": {
+        "en_GB": "<p>Purpose: People with pediatric and early adulthood type 1 diabetes (T1D) might have a higher fracture risk at several sites compared to the general population. Therefore, we assessed the hazard ratios (HR) of various fracture sites and determined the risk factors associated with fractures among people with newly diagnosed childhood and adolescence T1D. Methods: All people from the UK Clinical Practice Research Datalink GOLD (1987\u20132017), below 20 years of age with a T1D diagnosis code (n = 3100) and a new insulin prescription, were included and matched 1:1 by sex, age, and practice to a control without diabetes. Cox regression was used to estimate HRs of any, major osteoporotic fractures (MOFs) and peripheral fractures (lower-arm and lower-legs) for people with T1D compared to controls. The analyses were adjusted for sex, age, diabetic complications, medication (glucocorticoids, anti-depressants, anxiolytics, bone medication, anti-convulsive), Charlson-comorbidity-index (CCI), hypoglycemia, falls and alcohol. T1D was further stratified by diabetes duration, presence of diabetic microvascular complications (retinopathy, nephropathy, and neuropathy) and boys versus girls. Results: The crude HRs for any fracture (HR: 1.30, CI95%: 1.11\u20131.51), lower-arm (HR: 1.22, CI95%: 1.00\u20131.48), and lower-leg fractures (HR: 1.54, CI95%: 1.11\u20132.13) were statistically significant increase in T1D compared to controls, but the effect disappeared in the adjusted analyses. For MOFs, no significant differences were seen. Risk factors in the T1D cohort were few, but the most predominantly one was a previous fracture (any fracture: HR: 2.00, CI95%: 1.70\u20132.36; MOFs: HR: 1.89, CI95%: 1.44\u20132.48, lower- arm fractures: HR: 2.08, CI95%: 1.53\u20132.82 and lower-leg fractures: HR: 2.08, CI95%: 1.34\u20133.25). Others were a previous fall (any fracture: HR: 1.54, CI95%: 1.20\u20131.97), hypoglycemia (Any fracture: HR: 1.46, CI95%: 1.21\u20131.77 and lower-leg fractures: HR: 2.34, CI95%: 1.47\u20133.75), and anxiolytic medication (Any fracture: HR: 1.52, CI95%: 1.10\u20132.11). Whereas girls had a lower risk compared to boys (Any fracture: HR: 0.78, CI95%: 0.67\u20130.90 and lower-arm fractures; HR: 0.51, CI95%: 0.38\u20130.68). The risk of any fracture in T1D did not increase with longer diabetes duration compared to controls (0\u20134 years: HR: 1.20, CI95%: 1.00\u20131.44; 5\u20139 years: HR: 1.17, CI95%: 0.91\u20131.50; &lt;10 years: HR: 0.83, CI95%: 0.54\u20131.27). Similar patterns were observed for other fracture sites. Furthermore, one complication compared to none in T1D correlated with a higher fracture risk (1 complication: HR: 1.42, CI95%: 1.04\u20131.95). Conclusion: The overall fracture risk was not increased in pediatric and early adulthood T1D; instead, it was associated with familiar risk factors and specific diabetes-related ones.</p>"
+    }
+}
